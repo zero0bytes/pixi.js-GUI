@@ -1,5 +1,5 @@
 # pixi.js-GUI
-** Easy graphics user interface for pixi.js **
+**Easy graphics user interface for pixi.js** :smile:
 buttons , stages, pop-up dialog boxes:
 
 
