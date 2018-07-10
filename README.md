@@ -1,6 +1,7 @@
 # pixi.js-GUI
 **Easy graphics user interface for pixi.js** :smile:
-buttons , stages, pop-up dialog boxes:
+
+For rapid creation: buttons , screens , pop-up dialog boxes
 
 
 <p align="center">
